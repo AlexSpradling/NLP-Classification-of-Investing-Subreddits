@@ -2,9 +2,6 @@
 ---
 ### A Comparison of r/WallStreetBets and r/Investing
 ---
-## Problem Statement 
-
-Our client, Ademala Research, a hedge-fund of relaxed moral composure, wishes to move markets by using spam bots to post spurious investment news and information on personal finance subreddits. In order for the bots to be effective, they must be trained to recognize and use similar language to a real-life subreddit poster. Ademala has commissioned our firm to conduct a preliminary study of the language, phrases, and idioms used in two popular subreddits, r/WallStreetBets and r/Investing, and report back our findings. As such, we have undertaken to first build a Natural Language Processing classification model that is capable of distinguishing whether a post originated in r/WallStreetBets or r/Investing based on the text used in the post. In this way, Ademala will be able to use our findings to build robust and nefarious spam-bots. 
 
 ### Background
 
