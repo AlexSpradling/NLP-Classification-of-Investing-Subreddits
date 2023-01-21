@@ -30,7 +30,3 @@ With this data, we then undertook a rigorous gridsearch of hyperparameters for o
 
 4. Our classification model broke down when either subreddit used general investment language. A r/WallStreetBets posts devoid of profane language, references to options or short term investment strategies or any of the stock tickers frequently mentioned (such as TSLA or NKLA) became difficult to distinguish from a r/Investing post. Conversely, a r/Investing post that centered on options or tickers such as TSLA looked more like a r/WallStreetBets post to the classifier, and accuracy was lost. 
 
-A high-performance spam-bot would best be programmed to use words that are strongly-r/WSB in a majority of its posts. These words might include options, or other leverage-centric investments terms. The bot should also use emojis such as a '🚀', '🙌', '🐻', '🐂', '💵', '🍗','💎' to reiterate its points or use idiomatic r/WallStreetBets terminology such as "Tendies", Stonks" or acronyms such as "DD" (due diligence). The usage of these phrases or terms lends a post the WallStreetBet-ness that general personal finance posts in r/Investing do not have. Put simply, a reddit personal finance post is just any other personal finance post *unless* it uses a word like *tendies* and then it immediately self-identifies itself as r/WallStreetBets. 
-
-
-
